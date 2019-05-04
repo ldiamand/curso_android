@@ -1,0 +1,4 @@
+#Thu May 02 20:28:23 ART 2019
+base.0=/home/user/Documents/FragmentExample1/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
